@@ -10,7 +10,7 @@ This repository contains two interconnected applications designed to facilitate 
   script. Utilizing technologies such as cv2, playsound, and gtts, this application recognizes gestures made by the user through a camera interface and converts 
   them into text and sound. This enables mute individuals to communicate more effectively by translating their sign language gestures into spoken words.<br />
   You can find the executable file here-<br />
-     https://github.com/  <br />
+    https://github.com/Asmanishat/Pravaah/tree/main/handgesture  <br />
 # TEXT TO SIGN CONVERSION<br />
   Features of HandGesture Recognition part:<br />
     -- Text input for translation<br />
