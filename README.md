@@ -21,5 +21,5 @@ This repository contains two interconnected applications designed to facilitate 
   spoken or written communication. By translating text into sign language gestures, this tool empowers deaf users to engage in conversations and interactions 
   more seamlessly.<br />
   You can find the executable file here-<br />
-     https://github.com/   <br />
+    https://github.com/Asmanishat/Pravaah/tree/main/Text%20to%20sign  <br />
   
